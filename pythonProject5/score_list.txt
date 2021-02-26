@@ -1,0 +1,2 @@
+[{"player_name": "fgh", "attempts": 3, "date": "2021-02-26 16:40:58.476087", "secret_number": 11},
+{"player_name": "davor", "attempts": 5, "secret_number": 30, "date": "2021-02-26 17:31:46.949876"}]
