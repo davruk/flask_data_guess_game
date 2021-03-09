@@ -1,1 +1,1 @@
-[{"attempts": 5, "date": "2021-03-02 22:56:30.748200"}, {"attempts": 5, "date": "2021-03-02 22:56:47.419843"}, {"attempts": 4, "date": "2021-03-02 22:57:01.811658"}]
+[{"attempts": 6, "player_name": "dav", "date": "2021-03-09 03:03:14.868732"}, {"attempts": 4, "player_name": "dr", "date": "2021-03-09 03:03:35.133434"}, {"attempts": 4, "player_name": "dare", "date": "2021-03-09 03:03:57.862224"}, {"attempts": 5, "player_name": "drev", "date": "2021-03-09 03:12:24.821381"}]
